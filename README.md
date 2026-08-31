@@ -1,14 +1,12 @@
 <!-- ========================================================= -->
-
-<!--              JUAN RIBEIRO | GITHUB PROFILE               -->
-
+<!--                 JUAN RIBEIRO | JUAN_OS                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:00E5FF&section=header&text=JUAN%20RIBEIRO&fontSize=42&fontColor=00E5FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AUTOMATION%20%7C%20DATA%20%7C%20WEB&descAlignY=62&descSize=16&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:00E5FF&section=header&text=JUAN_OS&fontSize=46&fontColor=00E5FF&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%3E+SYSTEM+BOOT...;%3E+IDENTITY%3A+JUAN+RIBEIRO;%3E+SOFTWARE+ENGINEERING+MODE%3A+ONLINE" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&width=780&height=100&lines=SYSTEM+INITIALIZING...;JUAN+RIBEIRO;BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPLORING" alt="Banner Typing Animation" />
 
 </div>
 
@@ -18,7 +16,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=juansilvarb16&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/juansilvarb16?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=00E5FF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/juansilvarb16?label=STARS&style=for-the-badge&color=161B22&labelColor=7A5CFA" alt="Stars"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING__MODE-7A5CFA?style=for-the-badge&labelColor=161B22" alt="Status"/>
 
 </div>
 
@@ -26,29 +24,19 @@
 
 ## `01 // SOBRE MIM`
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  > INITIALIZING PROFILE...                                  │
-│                                                              │
-│  Olá, eu sou Juan Ribeiro.                                  │
-│                                                              │
-│  🎓 Engenharia de Software @ FIAP                            │
-│  💻 Técnico em Programação de Jogos Digitais                │
-│  🌐 Desenvolvimento Web                                     │
-│  🐍 Python & Automação                                      │
-│  📊 Dados, Excel & Power BI                                 │
-│  🧠 Lógica, resolução de problemas & tecnologia             │
-│                                                              │
-│  Meu foco é transformar problemas reais em soluções digitais│
-│  simples, funcionais e escaláveis.                           │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-Sou estudante de Engenharia de Software e gosto de explorar diferentes áreas da tecnologia, principalmente desenvolvimento, automação e dados.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1000&color=7A5CFA&center=true&vCenter=true&multiline=true&width=780&height=110&lines=%3E+SYSTEM+BOOT...;%3E+JUAN_OS+ONLINE;%3E+BUILDING+MY+FOUNDATION...;%3E+PYTHON+MODE%3A+ACTIVE;%3E+LEARNING+SOMETHING+NEW+EVERY+DAY" alt="Typing Animation" />
 
-Minha base começou com programação e desenvolvimento de jogos, e hoje estou ampliando meus conhecimentos para desenvolvimento web, Python, análise de dados, automação e engenharia de software.
+</div>
 
-Também gosto de projetos que conectam software com problemas do mundo real, como monitoramento ambiental, IoT, dashboards e sistemas de controle.
+Sou estudante de Engenharia de Software na FIAP e estou construindo minha base na área de tecnologia.
+
+Atualmente estou focado principalmente em **Python** e em fortalecer meus fundamentos de programação, enquanto exploro outras áreas como desenvolvimento web, dados, automação e tecnologia em geral.
+
+Gosto de aprender na prática, criar projetos e entender como diferentes tecnologias podem ser utilizadas para resolver problemas reais.
+
+Ainda estou no começo, explorando caminhos antes de definir uma especialização — e é exatamente essa fase de descoberta que este perfil representa.
 
 ---
 
@@ -56,14 +44,13 @@ Também gosto de projetos que conectam software com problemas do mundo real, com
 
 <div align="center">
 
-|     SYSTEM     |              STATUS             |
-| :------------: | :-----------------------------: |
-|  🎓 Education  | `FIAP • Engenharia de Software` |
-| 💻 Development |   `Web • Python • JavaScript`   |
-|     📊 Data    |     `Excel • Power BI • SQL`    |
-|  ⚙️ Automation |   `Python • JavaScript • Vite`  |
-|    🧠 Focus    |      `Software Engineering`     |
-|   📍 Location  |       `São Paulo, Brasil`       |
+|      SYSTEM     |                  STATUS                 |
+| :--------------: | :--------------------------------------: |
+|   🎓 Education   |     `FIAP • Engenharia de Software`     |
+| 🐍 Primary Focus |               `Python`                  |
+|   📚 Learning    |     `JavaScript • SQL • HTML • CSS`     |
+|    🧠 Mode       |          `BUILDING FOUNDATION`          |
+|   📍 Location    |            `São Paulo, Brasil`          |
 
 </div>
 
@@ -71,50 +58,30 @@ Também gosto de projetos que conectam software com problemas do mundo real, com
 
 ## `03 // TECH STACK`
 
-### `LANGUAGES`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,sql,cs&theme=dark" />
-
-</div>
-
-### `DATA • AUTOMATION • SOFTWARE`
-
-<div align="center">
-
+### PRIMARY FOCUS
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+### CURRENT LEARNING
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 
-</div>
-
----
-
-## `04 // TOOLS`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,unity&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+### TOOLS
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 
 </div>
 
+> Uma stack em construção, não uma lista de habilidades avançadas.
+
 ---
 
-## `05 // FEATURED PROJECTS`
+## `04 // FEATURED PROJECTS`
 
 <table>
 <tr>
@@ -123,11 +90,11 @@ Também gosto de projetos que conectam software com problemas do mundo real, com
 
 ### 🌊 Ocean Sentinel
 
-Plataforma inteligente criada para monitoramento de plástico oceânico utilizando dados de satélites e sensores.
+Plataforma de monitoramento de risco de acúmulo de resíduos marinhos, desenvolvida para o Global Solution FIAP 2026. Integra dados de satélite, sensores IoT e um índice de risco calculado em Python.
 
 **Stack**
 
-`HTML` `CSS` `JavaScript` `Python` `IoT`
+`Python` `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/juansilvarb16/Ocean-Sentinel-GS2026">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
@@ -137,13 +104,13 @@ Plataforma inteligente criada para monitoramento de plástico oceânico utilizan
 
 <td width="50%" valign="top">
 
-### 🤖 Smart Buoys
+### 🛟 Boias Inteligentes
 
-Projeto de boia inteligente desenvolvido com ESP32 e sensores para simular monitoramento ambiental e cálculo de risco.
+Simulação de boias inteligentes com sensores para apoiar o monitoramento ambiental do Ocean Sentinel.
 
 **Stack**
 
-`C++` `ESP32` `IoT` `Wokwi`
+`IoT` `Sensores` `Simulação`
 
 <a href="https://github.com/juansilvarb16/boias-inteligentes-wowki">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7A5CFA?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
@@ -157,9 +124,9 @@ Projeto de boia inteligente desenvolvido com ESP32 e sensores para simular monit
 
 <td width="50%" valign="top">
 
-### 🌐 Frontend SPRINT 2
+### 🌐 SPRINT2 Frontend
 
-Projeto acadêmico voltado ao desenvolvimento de interface web e aplicação de conceitos de frontend.
+Projeto acadêmico de desenvolvimento de interface web, aplicando fundamentos de front-end.
 
 **Stack**
 
@@ -173,16 +140,12 @@ Projeto acadêmico voltado ao desenvolvimento de interface web e aplicação de 
 
 <td width="50%" valign="top">
 
-### 🧠 Fadedmind
+### 📂 Mais projetos
 
-Projeto experimental com foco em narrativa, experiência do usuário, direção de arte e desenvolvimento de jogo.
+Outros repositórios e experimentos em andamento, à medida que vou explorando novas áreas.
 
-**Context**
-
-`Game Design` `Unity` `C#` `UX` `Narrative`
-
-<a href="https://www.linkedin.com/in/juan-ribeiro-bab807261/">
-<img src="https://img.shields.io/badge/CASE_STUDY-7A5CFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<a href="https://github.com/juansilvarb16?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOS-7A5CFA?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
@@ -192,7 +155,7 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 ---
 
-## `06 // GITHUB ANALYTICS`
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -210,9 +173,7 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 </div>
 
----
-
-## `07 // ACTIVITY GRAPH`
+<br>
 
 <div align="center">
 
@@ -220,9 +181,7 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 </div>
 
----
-
-## `08 // GITHUB TROPHIES`
+<br>
 
 <div align="center">
 
@@ -232,30 +191,29 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 ---
 
-## `09 // CURRENT OBJECTIVES`
+## `06 // CURRENT OBJECTIVES`
 
 <div align="center">
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                   JUAN_OS // TERMINAL                       │
+│              JUAN_OS // CURRENT_OBJECTIVES                  │
 ├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  > goal --current                                           │
-│                                                             │
-│  [01] ███████████████░░░░  Engenharia de Software           │
-│  [02] █████████████░░░░░░  Python & Automação               │
-│  [03] ████████████░░░░░░░  JavaScript & React               │
-│  [04] ██████████░░░░░░░░░  SQL & Dados                      │
-│  [05] █████████░░░░░░░░░░  Power BI                         │
-│  [06] ████████░░░░░░░░░░░  Arquitetura de Software          │
-│  [07] ███████░░░░░░░░░░░░  Inglês                           │
-│                                                             │
-│  > status                                                   │
-│  SYSTEM.STATUS = LEARNING                                   │
-│  MODE = BUILD                                               │
-│  NEXT_OBJECTIVE = LEVEL_UP                                  │
-│                                                             │
+│                                                               │
+│  [01] Building programming fundamentals                     │
+│  [02] Python                                                 │
+│  [03] Logic and problem solving                              │
+│  [04] SQL                                                     │
+│  [05] JavaScript                                              │
+│  [06] Web fundamentals                                        │
+│  [07] Data and automation                                     │
+│  [08] Software Engineering                                    │
+│                                                               │
+│  > status                                                     │
+│  SYSTEM.STATUS   = LEARNING                                  │
+│  MODE            = BUILD                                     │
+│  EXPLORING       = MULTIPLE_AREAS_BEFORE_SPECIALIZATION       │
+│                                                               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -263,11 +221,11 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 ---
 
-## `10 // CONTRIBUTION SYSTEM`
+## `07 // CONTRIBUTION SYSTEM`
 
 <div align="center">
 
-<p>Building. Learning. Improving. Repeating.</p>
+<p>Building. Learning. Evolving. Repeating.</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/juansilvarb16/juansilvarb16/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
@@ -277,7 +235,7 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 ---
 
-## `11 // CONNECT WITH ME`
+## `08 // CONNECT`
 
 <div align="center">
 
@@ -295,7 +253,7 @@ Projeto experimental com foco em narrativa, experiência do usuário, direção 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=7A5CFA&center=true&vCenter=true&width=600&lines=%3E+Thanks+for+visiting+my+profile.%3C;%3E+See+you+in+the+next+commit.%3C" alt="Footer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=7A5CFA&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Still+building%2C+still+learning.;%3E+See+you+in+the+next+commit." alt="Footer Typing Animation"/>
 
 <br>
 
