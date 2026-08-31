@@ -36,7 +36,6 @@ Atualmente estou focado principalmente em **Python** e em fortalecer meus fundam
 
 Gosto de aprender na prática, criar projetos e entender como diferentes tecnologias podem ser utilizadas para resolver problemas reais.
 
-Ainda estou no começo, explorando caminhos antes de definir uma especialização — e é exatamente essa fase de descoberta que este perfil representa.
 
 ---
 
